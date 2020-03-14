@@ -1,0 +1,131 @@
+% Encoding: UTF-8
+
+@Article{HerreroJaraba2003,
+  author    = {Herrero-Jaraba, El{\i}́as and Orrite-Uru{\~n}uela, Carlos and Senar, Jes{\'u}s},
+  journal   = {Pattern recognition letters},
+  title     = {Detected motion classification with a double-background and a neighborhood-based difference},
+  year      = {2003},
+  number    = {12},
+  pages     = {2079--2092},
+  volume    = {24},
+  publisher = {Elsevier},
+}
+
+@Misc{MartinezContreras2009,
+  author = {Francisco Martinez-Contreras and Carlos Orrite-Urunuela and Elias Herrero-Jaraba and Hossein Ragheb and Sergio A. Velastin},
+  title  = {Recognizing Human Actions Using Silhouette-based HMM},
+  year   = {2009},
+  doi    = {10.1109/avss.2009.46},
+}
+
+@Misc{HerreroJaraba2002,
+  author = {J. Elías Herrero-Jaraba and Carlos Orrite-Uruñuela and David Buldain and Armando Roy-Yarza},
+  title  = {Human Recognition by Gait Analysis Using Neural Networks},
+  year   = {2002},
+  doi    = {10.1007/3-540-46084-5_59},
+  issn   = {0302-9743},
+  pages  = {364-369},
+}
+
+@Misc{delRincon2007,
+  author = {Jesus Martinez-del-Rincon and Carlos Orrite-Urunuela and J. Elias Herrero-Jaraba},
+  title  = {An efficient particle filter for color-based tracking in complex scenes},
+  year   = {2007},
+  doi    = {10.1109/avss.2007.4425306},
+}
+
+@Article{Medrano2010,
+  author = {Carlos Medrano and Jesús Martínez and Raúl Igual and José Elías Herrero and Carlos Orrite},
+  title  = {Gaussian Approximation for Tracking Occluding and Interacting Targets},
+  year   = {2010},
+  issn   = {0924-9907},
+  pages  = {241-253},
+  volume = {36},
+  doi    = {10.1007/s10851-009-0183-9},
+}
+
+@Misc{Martinez2005,
+  author = {Francisco Martínez and Carlos Orrite and Elías Herrero},
+  title  = {Biometric Hand Recognition Using Neural Networks},
+  year   = {2005},
+  doi    = {10.1007/11494669_143},
+  issn   = {0302-9743},
+  pages  = {1164-1171},
+}
+
+@Misc{GraciaRoche2005,
+  author = {Juan José Gracia-Roche and Carlos Orrite and Emiliano Bernués and José Elías Herrero},
+  title  = {Color Distribution Tracking for Facial Analysis},
+  year   = {2005},
+  doi    = {10.1007/11492429_59},
+  issn   = {0302-9743},
+  pages  = {484-491},
+}
+
+@Misc{Orrite2014,
+  author = {Carlos Orrite and Mario Rodriguez and Elias Herrero and Gregory Rogez and Sergio A. Velastin},
+  title  = {Automatic Segmentation and Recognition of Human Actions in Monocular Sequences},
+  year   = {2014},
+  doi    = {10.1109/icpr.2014.723},
+}
+
+@Misc{Orrite2015,
+  author = {Carlos Orrite and Juan Soler and Mario Rodriguez and Elías Herrero and Roberto Casas},
+  title  = {Image-based Location Recognition and Scenario Modelling},
+  year   = {2015},
+  doi    = {10.5220/0005352702160221},
+}
+
+@Misc{Rodriguez2015,
+  author = {Mario Rodriguez and Carlos Medrano and Elias Herrero and Carlos Orrite},
+  title  = {Spectral Clustering Using Friendship Path Similarity},
+  year   = {2015},
+  doi    = {10.1007/978-3-319-19390-8_36},
+  issn   = {0302-9743},
+  pages  = {319-326},
+}
+
+@InProceedings{Orrite2019,
+  author    = {Carlos Orrite and El{\'{\i}}as Herrero and Mauricio Valencia},
+  booktitle = {Pattern Recognition and Image Analysis - 9th Iberian Conference, IbPRIA 2019, Madrid, Spain, July 1-4, 2019, Proceedings, Part {I}},
+  title     = {From Features to Attribute Graphs for Point Set Registration},
+  year      = {2019},
+  editor    = {Aythami Morales and Julian Fi{\'{e}}rrez and Jos{\'{e}} Salvador S{\'{a}}nchez and Bernardete Ribeiro},
+  pages     = {437--448},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11867},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/conf/ibpria/OrriteHV19.bib},
+  doi       = {10.1007/978-3-030-31332-6\_38},
+  url       = {https://doi.org/10.1007/978-3-030-31332-6_38},
+}
+
+@InProceedings{Rodriguez2013,
+  author    = {Mario Rodr{\'{\i}}guez and Carlos Medrano and El{\'{\i}}as Herrero and Carlos Orrite},
+  booktitle = {Human Behavior Understanding - 4th International Workshop, {HBU} 2013, Barcelona, Spain, October 22, 2013. Proceedings},
+  title     = {Transfer Learning of Human Poses for Action Recognition},
+  year      = {2013},
+  editor    = {Albert Ali Salah and Hayley Hung and Oya Aran and Hatice Gunes},
+  pages     = {89--101},
+  publisher = {Springer},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {8212},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/conf/hbu/RodriguezMHO13.bib},
+  doi       = {10.1007/978-3-319-02714-2\_8},
+  url       = {https://doi.org/10.1007/978-3-319-02714-2_8},
+}
+
+@Article{medrano2009mean,
+  author    = {Medrano, Carlos and Herrero, JE and Mart{\'\i}nez, J and Orrite, Carlos},
+  journal   = {Computer Vision and Image Understanding},
+  title     = {Mean field approach for tracking similar objects},
+  year      = {2009},
+  number    = {8},
+  pages     = {907--920},
+  volume    = {113},
+  publisher = {Elsevier},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
